@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/simple-react-app/static/css/main.b4378152.chunk.css",
+    "main.js": "/simple-react-app/static/js/main.9b3649df.chunk.js",
+    "main.js.map": "/simple-react-app/static/js/main.9b3649df.chunk.js.map",
+    "runtime~main.js": "/simple-react-app/static/js/runtime~main.c4e77a45.js",
+    "runtime~main.js.map": "/simple-react-app/static/js/runtime~main.c4e77a45.js.map",
+    "static/js/2.d0e32677.chunk.js": "/simple-react-app/static/js/2.d0e32677.chunk.js",
+    "static/js/2.d0e32677.chunk.js.map": "/simple-react-app/static/js/2.d0e32677.chunk.js.map",
+    "index.html": "/simple-react-app/index.html",
+    "precache-manifest.c24c4f252872058174304c61bd095fd5.js": "/simple-react-app/precache-manifest.c24c4f252872058174304c61bd095fd5.js",
+    "service-worker.js": "/simple-react-app/service-worker.js",
+    "static/css/main.b4378152.chunk.css.map": "/simple-react-app/static/css/main.b4378152.chunk.css.map"
+  }
+}
